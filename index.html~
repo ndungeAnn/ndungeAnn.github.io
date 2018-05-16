@@ -325,11 +325,11 @@
                   <div class="item-wrap">
 
                      <a href="#modal-04" title="">
-                        <img alt="" src="images/untitled.blend">
+                        <img alt="" src="images/advanced table.bled">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Into The Light</h5>
-                              <p>Photography</p>
+          					      <h5>untitled.blend</h5>
+                              <p>blender</p>
           					   </div>
                         </div>
                         <div class="link-icon"><i class="icon-plus"></i></div>
@@ -342,10 +342,10 @@
                   <div class="item-wrap">
 
                      <a href="#modal-05" title="">
-                        <img alt="" src="images/portfolio/farmerboy.jpg">
+                        <img alt="" src="images">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
-          					      <h5>Farmer Boy</h5>
+          					      <h5></h5>
                               <p>Branding</p>
           					   </div>
                         </div>
@@ -726,16 +726,14 @@
                   <ul id="twitter">
                      <li>
                         <span>
-                        This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet.
-                        Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum
+                        
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b><a href="#">2 Days Ago</a></b>
                      </li>
                      <li>
                         <span>
-                        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam,
-                        eaque ipsa quae ab illo inventore veritatis et quasi
+                        
                         <a href="#">http://t.co/CGIrdxIlI3</a>
                         </span>
                         <b><a href="#">3 Days Ago</a></b>
