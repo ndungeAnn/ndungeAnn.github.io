@@ -96,7 +96,7 @@
 
             <h2>About Me</h2>
 
-            <p>Am a proble solver who aspires to change people's thinking when it comes to business,design and technology.I have passion in technology and design.I love coming up with new designs at my free time.I also enjoy reading and will read any thing to do with design and technology.With time am perfeting myself and increasing my skills as i read more and more.
+            <p>Am a problem solver who aspires to change people's thinking when it comes to business,design and technology.I have passion in technology and design.I love coming up with new designs at my free time.I also enjoy reading and will read any thing to do with design and technology.With time am perfeting myself and increasing my skills as I read more and more.
             </p>
 
             <div class="row">
@@ -359,7 +359,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-06" title="">
-                        <img alt="" src="images/portfolio/girl.jpg">
+                        <img alt="" src="images/">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Girl</h5>
@@ -376,7 +376,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-07" title="">
-                        <img alt="" src="images/portfolio/origami.jpg">
+                        <img alt="" src="images/">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Origami</h5>
@@ -393,7 +393,7 @@
                   <div class="item-wrap">
 
                      <a href="#modal-08" title="">
-                        <img alt="" src="images/portfolio/retrocam.jpg">
+                        <img alt="" src="images/">
                         <div class="overlay">
                            <div class="portfolio-item-meta">
           					      <h5>Retrocam</h5>
